@@ -11,9 +11,9 @@ Boa noite!
 Tudo bem?
 Estou sempre bem!
 Como você chama?
-Meu nome é Bruce, prazer!
+Meu nome é Dra. Psic, prazer!
 Como você pode me ajudar?
-Posso te ajuda a tirar dúvidas sobre depressão e ansiedade.
+Posso te ajudar a tirar dúvidas sobre depressão e ansiedade.
 O que é ansiedade?
 O transtorno de ansiedade generalizada (TAG) é um distúrbio caracterizado pela “preocupação excessiva ou expectativa apreensiva”, persistente e de difícil controle, que perdura por seis meses no mínimo.
 Quais os sintomas da ansiedade?
@@ -34,8 +34,8 @@ O que causa depressão?
 Existem fatores genéticos envolvidos nos casos de depressão, doença que pode ser provocada por uma disfunção bioquímica do cérebro. Entretanto, nem todas as pessoas com predisposição genética reagem do mesmo modo diante de fatores que funcionam como gatilho para as crises: acontecimentos traumáticos na infância, estresse físico e psicológico, algumas doenças sistêmicas (ex: hipotireoidismo), consumo de drogas lícitas (ex: álcool) e ilícitas (ex: cocaína), certos tipos de medicamentos (ex: anfetaminas). Mulheres parecem ser mais vulneráveis aos estados depressivos em virtude da oscilação hormonal a que estão expostas principalmente no período fértil.
 O que significa tag?
 Significa transtorno da ansiedade generalisada.
-Ansiedade é doença?
-Ansiedade tem cura? Assim como a maioria das doenças mentais crônicas, o transtorno de ansiedade não tem cura, porém existem meios de diminuir seus sintomas e efeitos na vida de quem sofre dessa condição.
+Ansiedade tem cura?
+Assim como a maioria das doenças mentais crônicas, o transtorno de ansiedade não tem cura, porém existem meios de diminuir seus sintomas e efeitos na vida de quem sofre dessa condição.
 Ansiedade causa problemas no sono?
 Cerca de metade das pessoas com transtorno de ansiedade sofrem com problemas de sono. O nervosismo e a tensão pela expectativa de algo é tão grande que elas não conseguem adormecer, ou acordam no meio da noite e não conseguem voltar a dormir. Isso não é algo raro, ao contrário, as noites mal dormidas passam a ser cada vez mais frequentes.
 Ansiedade em crianças, é possível?
@@ -48,5 +48,9 @@ Ao notar os sintomas da depressão, qual profissional de saúde devo procurar?
 Ao reconhecer ou desconfiar de um quadro depressivo é imprescindível procurar um médico psiquiatra, ele é o profissional mais indicado para diagnosticar e tratar a depressão. 
 Há uma faixa etária mais vulnerável à doença?
 Sim. A maioria dos casos de depressão acomete indivíduos entre 20 e 40 anos de idade. Mas é importante dizer que a doença pode se iniciar em qualquer faixa etária, da infância à terceira idade. 
-
-
+Como é tratado a depressão?
+Depressão é uma doença que exige acompanhamento médico sistemático. Quadros leves costumam responder bem ao tratamento psicoterápico. Nos outros mais graves e com reflexo negativo sobre a vida afetiva, familiar e profissional e em sociedade, a indicação é o uso de antidepressivos com o objetivo de tirar a pessoa da crise.
+Como é tratado a ansiedade?
+O tratamento do TAG inclui o uso de medicamentos antidepressivos ou ansiolíticos, sob orientação médica, e a terapia comportamental cognitiva. O tratamento farmacológico geralmente precisa ser mantido por seis a doze meses depois do desaparecimento dos sintomas e deve ser descontinuado em doses decrescentes.
+O que diferencia a ansiedade normal da doença?
+As manifestações físicas, ou mesmo as vivências emocionais da ansiedade patológica, são as mesmas para todos, mesmo nos que não têm os transtornos. A diferença é o prejuízo funcional (incapacitação ou prejuízo competitivo) e/ou o sofrimento excessivo.
